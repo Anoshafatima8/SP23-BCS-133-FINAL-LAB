@@ -1,0 +1,39 @@
+.logo {
+    display: inline-block;
+
+}
+.flex {
+    color: red;
+    margin-bottom: 400px;
+    margin-right: 600px;
+    display: inline-block;
+}
+.nav{
+    background-color: black;
+    display: block;
+    height: 600px;
+}
+.menu{
+    color: red;
+    margin-bottom: 200px;
+}
+.text1{
+    color: black;
+    margin-left: 500px;
+    display: inline-block;
+}
+.text2{
+    margin-top: 100px;
+}
+.imagespt2{
+    height: 100px;
+    width: 50px;
+    display:flex;
+    justify-content: space-evenly;
+}
+.imagespt3{
+    height: 100px;
+    width: 50px;
+    display:flex;
+    justify-content: space-evenly;
+}
